@@ -32,6 +32,21 @@ let stringNumber = String(someNumber)
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
 
+
+// let a = true;
+// let b = Number(a)
+// console.log(b);
+
+// let islogedIn = 1;
+// let booleanLogedIn = Boolean(islogedIn);
+// console.log(booleanLogedIn,typeof booleanLogedIn,typeof islogedIn);
+
+// let someNumber = 33;
+// let stringNumber = String(someNumber);
+// console.log(stringNumber,typeof stringNumber,typeof someNumber)
+
+
+
 // *********************** Operations ***********************
 
 let value = 3
@@ -71,17 +86,3 @@ console.log(gameCounter);
 
 // link to study
 // https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
-
-
-
-// let a = true;
-// let b = Number(a)
-// console.log(b);
-
-// let islogedIn = 1;
-// let booleanLogedIn = Boolean(islogedIn);
-// console.log(booleanLogedIn,typeof booleanLogedIn,typeof islogedIn);
-
-// let someNumber = 33;
-// let stringNumber = String(someNumber);
-// console.log(stringNumber,typeof stringNumber,typeof someNumber)
