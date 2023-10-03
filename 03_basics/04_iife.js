@@ -4,9 +4,4 @@
 //     console.log(`DB CONNECTE`)
 // }
 // chai()
-
-(function chai(){
-    console.log(`DB CONNECTE`)
-})()
-
-()()
+ 
