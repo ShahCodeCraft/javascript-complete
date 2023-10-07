@@ -1,10 +1,10 @@
 # Projects related to DOM
 
-## project link
+## Project Link
 
 [Click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=index.html)
 
-#Solution code
+## Solution code
 
 ## Project 1 Solution
 
