@@ -21,6 +21,7 @@
 // counter++;  //postfix
 // console.log(counter)
 
-let counter = 100;
-++counter;   //prefix
-console.log(counter)
+// let counter = 100;
+// ++counter;   //prefix
+// console.log(counter)
+

@@ -1,7 +1,7 @@
 // const accountId = 14455
 // let accountEmail = "shahalam12@gmail.com"
 // var accountPassword = "1234"
-// accountCity = "Muzaffarpur"
+let accountCity = "Muzaffarpur"
 
 // const accountId = 14  //not allow
 // let accountEmail = "alam12@gmail.com"
@@ -14,7 +14,7 @@ console.log(accountId);
 const accountId = 144553
 let accountEmail = "hitesh@google.com"
 var accountPassword = "12345"
-accountCity = "Jaipur"
+// accountCity = "Jaipur"
 let accountState;
 
 // accountId = 2 // not allowed
