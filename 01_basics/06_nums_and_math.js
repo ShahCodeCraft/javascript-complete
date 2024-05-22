@@ -32,7 +32,7 @@
 // console.log(Math.max(5,8,3,5));
 // console.log(Math.min(6,4,7,3,6));
 
-// console.log(Math.random())
+// console.log(Math.random()
 // console.log((Math.random() * 10) + 1);
 // console.log(Math.floor(Math.random() * 10) + 1);
 

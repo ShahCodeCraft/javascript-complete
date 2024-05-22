@@ -8,7 +8,7 @@ let accountCity = "Muzaffarpur"
 // var accountPassword = "1234"
 // accountCity = "Muzaffarpur"
 
-console.log(accountId);
+// console.log(accountId);
 
  //Code and Chai
 const accountId = 144553
@@ -23,13 +23,17 @@ let accountState;
 accountEmail = "hc@hc.com"
 accountPassword = "21212121"
 accountCity = "Bengaluru"
+accountState = "Karnataka"
 
-console.log(accountId);
+// console.log(accountId);
 
 /*
 Prefer not to use var
 because of issue in block scope and functional scope
 */
 
+let name = 'Shah Alam';
+let age = 26;
+console.log([name,age])
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
